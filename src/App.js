@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Erdem'in Archi's ödeviydi bu sayfa. / ben erudem
+          Erdem'in Archi's ödeviydi bu sayfa. / Merge Conflict çözülmüştür!
         </p>
         <a
           className="App-link"
